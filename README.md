@@ -12,5 +12,19 @@ I have also added the option of being able to choose the language that suits you
       ├── discord.js@14.15.3
       └── dotenv@16.4.5
 
-📜 - How to use commands:
-      **Start message**: 
+## 📜 - How to use commands: ##
+      **Start message**: <start> [it, en, fr, de, ru]
+      **Stop message**: <stop> [it, en, fr, de, ru]
+      **Maintenance message**: <maintenance> [it, en, fr, de, ru]
+
+## 🎋 - How to use the language and change it: ##
+      The default message is set in: Italian.
+      **⚠️ If you misspell the language prefix at the end of the command, it will be automatically written in Italian**
+      Available languages are:
+      ├── Italian *(Default)*
+      ├── English
+      ├── French
+      ├── German
+      └── Russian
+
+      
