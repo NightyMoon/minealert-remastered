@@ -27,4 +27,6 @@ I have also added the option of being able to choose the language that suits you
       ├── German [de]
       └── Russian [ru]
 
+## 🌙 - Need support? ##
+      If you need help, join our Discord server Ryzens (dsc.gg/demonita) or (https://discord.gg/xPEkdhDNbN) and open a Ticket, a staff member will come to assist you! 
       
