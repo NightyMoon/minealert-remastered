@@ -21,10 +21,10 @@ I have also added the option of being able to choose the language that suits you
       The default message is set in: Italian.
       **⚠️ If you misspell the language prefix at the end of the command, it will be automatically written in Italian**
       Available languages are:
-      ├── Italian *(Default)*
-      ├── English
-      ├── French
-      ├── German
-      └── Russian
+      ├── Italian [it] *(Default)*
+      ├── English [en]
+      ├── French [fr]
+      ├── German [de]
+      └── Russian [ru]
 
       
